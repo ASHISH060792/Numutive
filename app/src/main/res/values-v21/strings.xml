@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_message">Enter a name</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="number_1">Number 1</string>
+</resources>
